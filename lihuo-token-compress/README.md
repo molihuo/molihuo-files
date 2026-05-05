@@ -1,4 +1,4 @@
-# lihuo-token-compress 🔥
+# Token压缩术Skill 🔥
 
 > 对任意 Skill 做极致 Token 优化重构，不损失功能逻辑。
 
