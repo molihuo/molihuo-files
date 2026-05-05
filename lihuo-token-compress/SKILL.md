@@ -1,5 +1,5 @@
 ---
-name: lihuo压缩token术
+name: token压缩术skill
 description: 对任意Skill做极致Token优化重构，不损失功能逻辑。当用户要求优化/压缩/瘦身/重构某个Skill以减少Token消耗时触发。触发词：压缩Token、优化Skill、Skill瘦身、Token优化、减少Token、压缩技能、Skill精简、Token压缩术。
 agent_created: true
 ---
